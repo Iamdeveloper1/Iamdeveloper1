@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Iamdeveloper1&theme=buefy&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Iamdeveloper1&limit=5&theme=buefy&combine_all_yearly_contributions=true)
