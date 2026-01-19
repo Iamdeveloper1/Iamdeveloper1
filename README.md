@@ -1,10 +1,10 @@
 ![Black Grey Sleek Scrapbook General Linkedin Banner (1)](https://github.com/user-attachments/assets/691913fa-09c8-4d0c-869e-4584bb03bb2a)
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/About%20Me-QasimShah-FF5733?style=for-the-badge&logo=github" />
 </p>
 
-<p align="center">
+<p>
 Hi! I’m <strong>Qasim Shah</strong> 👨‍💻 <br>
 I’m a passionate <em>Full-Stack Web Developer</em> and <em>Software Engineer</em> 🚀 <br>
 I love building 
