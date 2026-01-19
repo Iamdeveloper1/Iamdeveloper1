@@ -1,7 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4)
 
-<video width="100%" autoplay muted loop playsinline>
-    <source src="https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4" type="video/mp4">
+<video autoplay muted loop playsinline>
+    <source src="https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4">
     Your browser does not support the video tag.
   </video>
 
