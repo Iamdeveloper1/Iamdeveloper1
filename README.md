@@ -29,7 +29,6 @@ I love building
 ![](https://github-contributor-stats.vercel.app/api?username=Iamdeveloper1&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Iamdeveloper1&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
