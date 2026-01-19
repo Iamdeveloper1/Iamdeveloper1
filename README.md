@@ -1,7 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/f5db0df3-2747-4d13-8229-50df62dc1053)
-
-<video src="https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4"></video>
-
+![Banner](https://vimeo.com/1156118232)
 
 # 💫 About Me
 🔭 I’m currently working on Improving my Full Stack skills and building scalable web apps<br>👯 I’m looking to collaborate on Open source MERN Stack projects and advanced WordPress themes.<br>🌱 I’m currently learning Next.js, TypeScript, and Advanced State Management.<br>💬 Ask me about MERN Stack architecture, REST APIs with Node.js, and React components.<br>⚡ Fun fact I think in JavaScript and dream in JSON.
