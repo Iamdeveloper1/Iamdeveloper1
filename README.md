@@ -1,5 +1,6 @@
 ![Banner](https://vimeo.com/1156118232)
-<video src="https://vimeo.com/1156118232"></video>
+
+![Black Grey Sleek Scrapbook General Linkedin Banner](https://github.com/user-attachments/assets/7100ac29-988e-4d6b-a167-609bdeeba194)
 
 # 💫 About Me
 🔭 I’m currently working on Improving my Full Stack skills and building scalable web apps<br>👯 I’m looking to collaborate on Open source MERN Stack projects and advanced WordPress themes.<br>🌱 I’m currently learning Next.js, TypeScript, and Advanced State Management.<br>💬 Ask me about MERN Stack architecture, REST APIs with Node.js, and React components.<br>⚡ Fun fact I think in JavaScript and dream in JSON.
