@@ -1,25 +1,28 @@
 ![Black Grey Sleek Scrapbook General Linkedin Banner (1)](https://github.com/user-attachments/assets/691913fa-09c8-4d0c-869e-4584bb03bb2a)
 
+<p align="center">
+  <!-- Animated GIF Banner -->
+  <img src="YOUR_GIF_BANNER_LINK" alt="Animated Banner" width="100%" />
+</p>
+
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
 Hi! I’m <strong>Qasim Shah</strong> 👨‍💻 <br>
-I’m a passionate Full-Stack Web Developer and Software Engineer. <br>
-I love building <em>dynamic websites, MERN stack apps, and WordPress projects</em>. 🚀
+I’m a passionate <em>Full-Stack Web Developer</em> and <em>Software Engineer</em> 🚀 <br>
+I love building 
+<span>💻 Websites</span> | 
+<span>⚛️ React Apps</span> | 
+<span>🌐 MERN Stack Projects</span>
 </p>
 
 <p align="center">
-  <strong>Skills:</strong> HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Git | GitHub
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/QasimShah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-QasimShah-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-QasimShah-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-</p>
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8f26wP4m) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Gujib3oQ1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iamde_veloper/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-7856723a6) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/qasim2201a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@iamde_veloper) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mq224619@gmail.com) 
