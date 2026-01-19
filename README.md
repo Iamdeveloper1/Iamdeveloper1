@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/About%20Me-syedQasim-FF5733?style=for-the-badge&logo=github" />
 </p>
 
-<p align="center">
+<p>
 Hi! I’m <strong>Qasim Shah</strong><br>
 I’m a passionate <em>Full-Stack Web Developer</em> and <em>Software Engineer</em><br>
 I love building 
@@ -15,7 +15,7 @@ I love building
 <hr style="border: 0; height: 4px; background: linear-gradient(to right, #FF5733, #FF8D1A, #FFC300);">
 
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Social%20-join-FF5733?style=for-the-badge&logo=github" />
 </p>
 
