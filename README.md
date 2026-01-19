@@ -1,12 +1,7 @@
+![Banner](https://github.com/user-attachments/assets/ac48e04f-f12d-4d11-a455-e1f109a43253)
+
 # 💫 About Me:
 🔭 I’m currently working on Improving my Full Stack skills and building scalable web apps<br>👯 I’m looking to collaborate on Open source MERN Stack projects and advanced WordPress themes.<br>🌱 I’m currently learning Next.js, TypeScript, and Advanced State Management.<br>💬 Ask me about MERN Stack architecture, REST APIs with Node.js, and React components.<br>⚡ Fun fact I think in JavaScript and dream in JSON.
-
-![Banner](https://github.com/user-attachments/assets/ac48e04f-f12d-4d11-a455-e1f109a43253)
-<img width="1584" height="396" alt="Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner" src="https://github.com/user-attachments/assets/ac48e04f-f12d-4d11-a455-e1f109a43253" />
-
-
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8f26wP4m) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Gujib3oQ1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iamde_veloper/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-7856723a6) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/qasim2201a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@iamde_veloper) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mq224619@gmail.com) 
