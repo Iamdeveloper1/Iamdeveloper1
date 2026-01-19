@@ -1,5 +1,33 @@
 ![Black Grey Sleek Scrapbook General Linkedin Banner (1)](https://github.com/user-attachments/assets/691913fa-09c8-4d0c-869e-4584bb03bb2a)
 
+
+<p align="center">
+  <!-- Animated GIF Banner -->
+  <img src="YOUR_GIF_LINK_HERE" alt="Animated Banner" width="100%" />
+</p>
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+Hi! I’m <strong>Qasim Shah</strong> 👨‍💻 <br>
+I’m a passionate Full-Stack Web Developer and Software Engineer. <br>
+I love building <em>dynamic websites, MERN stack apps, and WordPress projects</em>. 🚀
+</p>
+
+<p align="center">
+  <strong>Skills:</strong> HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Git | GitHub
+</p>
+
+<p align="center">
+  <a href="https://github.com/QasimShah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-QasimShah-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-QasimShah-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+</p>
+
+
 # 💫 About Me
 🔭 I’m currently working on Improving my Full Stack skills and building scalable web apps<br>👯 I’m looking to collaborate on Open source MERN Stack projects and advanced WordPress themes.<br>🌱 I’m currently learning Next.js, TypeScript, and Advanced State Management.<br>💬 Ask me about MERN Stack architecture, REST APIs with Node.js, and React components.<br>⚡ Fun fact I think in JavaScript and dream in JSON.
 
