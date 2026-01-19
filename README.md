@@ -1,8 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4)
-![BlackGreySleekScrapbookGeneralLinkedinBanner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f5db0df3-2747-4d13-8229-50df62dc1053)
 
 <p align="center">
-  <img src="GIF_LINK_HERE" alt="Animated Banner" />
+  <img src="https://github.com/user-attachments/assets/f5db0df3-2747-4d13-8229-50df62dc1053" alt="Animated Banner" />
 </p>
 
 # 💫 About Me
