@@ -1,4 +1,4 @@
-![Banner]https://github.com/user-attachments/assets/f5db0df3-2747-4d13-8229-50df62dc1053()
+![Banner](https://github.com/user-attachments/assets/f5db0df3-2747-4d13-8229-50df62dc1053)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f5db0df3-2747-4d13-8229-50df62dc1053" alt="Animated Banner"/>
