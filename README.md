@@ -1,7 +1,8 @@
 ![Banner](https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4)
 
 
-<video src="https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4"></video>
+
+                <video src="https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4" controls loop muted></video>
 
 
 
