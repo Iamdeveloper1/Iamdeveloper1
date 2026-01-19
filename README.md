@@ -1,9 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/f5db0df3-2747-4d13-8229-50df62dc1053)
 
-<p align="center">
-  <a href="https://vimeo.com/1156118232" target="_blank">
-  </a>
-</p>
+<video src="https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4"></video>
 
 
 # 💫 About Me
