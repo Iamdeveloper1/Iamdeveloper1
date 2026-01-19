@@ -38,3 +38,52 @@ I love building
 [![](https://visitcount.itsvg.in/api?id=Iamdeveloper1&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p align="center">
+  <!-- Animated GIF Banner -->
+  <img src="YOUR_GIF_BANNER_LINK" alt="Animated Banner" width="100%" />
+</p>
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+Hi! I’m <strong>Qasim Shah</strong> 👨‍💻 <br>
+I’m a passionate <em>Full-Stack Web Developer</em> 🚀 <br>
+I love building 
+<span style="color:#FF6F61">dynamic websites</span>, 
+<span style="color:#6A5ACD">MERN stack apps</span>, and 
+<span style="color:#00CED1">WordPress projects</span> 💻
+</p>
+
+<!-- Stylish Separator -->
+<hr style="border: none; border-top: 3px dashed #6A5ACD;">
+
+<p align="center">
+  <strong>✨ Skills:</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<!-- Stylish Separator -->
+<hr style="border: none; border-top: 3px dashed #6A5ACD;">
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="assets/github_stats_chart.png" alt="GitHub Stats Chart" width="80%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/QasimShah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-QasimShah-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-QasimShah-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
