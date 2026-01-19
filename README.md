@@ -4,9 +4,6 @@
   <img src="https://img.shields.io/badge/About%20Me-QasimShah-FF5733?style=for-the-badge&logo=github" />
 </p>
 
-
-<h2 align="center">About Me</h2>
-
 <p align="center">
 Hi! I’m <strong>Qasim Shah</strong> 👨‍💻 <br>
 I’m a passionate <em>Full-Stack Web Developer</em> and <em>Software Engineer</em> 🚀 <br>
