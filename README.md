@@ -1,6 +1,10 @@
 ![Banner](https://github.com/user-attachments/assets/00c9f22a-e5dc-43f2-9dc8-8f0a8d45130c)
 
 
+https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4
+
+
+
 # 💫 About Me
 🔭 I’m currently working on Improving my Full Stack skills and building scalable web apps<br>👯 I’m looking to collaborate on Open source MERN Stack projects and advanced WordPress themes.<br>🌱 I’m currently learning Next.js, TypeScript, and Advanced State Management.<br>💬 Ask me about MERN Stack architecture, REST APIs with Node.js, and React components.<br>⚡ Fun fact I think in JavaScript and dream in JSON.
 
