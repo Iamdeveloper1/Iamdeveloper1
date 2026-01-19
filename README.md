@@ -2,6 +2,10 @@
 🔭 I’m currently working on Improving my Full Stack skills and building scalable web apps<br>👯 I’m looking to collaborate on Open source MERN Stack projects and advanced WordPress themes.<br>🌱 I’m currently learning Next.js, TypeScript, and Advanced State Management.<br>💬 Ask me about MERN Stack architecture, REST APIs with Node.js, and React components.<br>⚡ Fun fact I think in JavaScript and dream in JSON.
 
 ![Banner](https://your-image-link-here)
+<img width="1584" height="396" alt="Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner" src="https://github.com/user-attachments/assets/ac48e04f-f12d-4d11-a455-e1f109a43253" />
+
+
+
 
 
 ## 🌐 Socials:
