@@ -1,9 +1,9 @@
 ![Banner](https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4)
+![BlackGreySleekScrapbookGeneralLinkedinBanner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f5db0df3-2747-4d13-8229-50df62dc1053)
 
-<video autoplay muted loop playsinline>
-    <source src="https://github.com/user-attachments/assets/22dc02f6-5e23-439e-8056-4c915c555fe4">
-    Your browser does not support the video tag.
-  </video>
+<p align="center">
+  <img src="GIF_LINK_HERE" alt="Animated Banner" />
+</p>
 
 # 💫 About Me
 🔭 I’m currently working on Improving my Full Stack skills and building scalable web apps<br>👯 I’m looking to collaborate on Open source MERN Stack projects and advanced WordPress themes.<br>🌱 I’m currently learning Next.js, TypeScript, and Advanced State Management.<br>💬 Ask me about MERN Stack architecture, REST APIs with Node.js, and React components.<br>⚡ Fun fact I think in JavaScript and dream in JSON.
