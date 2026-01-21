@@ -29,16 +29,7 @@ I love building
 
 <hr style="border: 0; height: 4px; background: linear-gradient(to right, #FF5733, #FF8D1A, #FFC300);">
 
-<p>
-  <img src="https://img.shields.io/badge/githab%20-stats-brightgreen?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&count_private=true" />
-</p>
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
 
 ![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Iamdeveloper1&style=for-the-badge)
