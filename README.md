@@ -46,6 +46,8 @@ I love building
 ![Release version](https://img.shields.io/github/v/release/Iamdeveloper1/qasim-?style=for-the-badge)
 
 
+![Custom](https://img.shields.io/badge/Focus-MERN_Stack-red)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
