@@ -42,4 +42,8 @@ I love building
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JS](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 
