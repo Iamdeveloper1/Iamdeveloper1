@@ -43,7 +43,7 @@ I love building
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Stars](https://img.shields.io/github/stars/Iamdeveloper1/qasim?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim?style=for-the-badge)
 
 
