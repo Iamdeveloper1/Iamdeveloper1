@@ -33,6 +33,10 @@ I love building
   <img src="https://img.shields.io/badge/githab%20-stats-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
+![GitHub repos](https://img.shields.io/github/qasim/Iamdeveloper1?style=for-the-badge)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&theme=nuefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Iamdeveloper1&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -43,8 +47,6 @@ I love building
 ![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim?style=for-the-badge)
 
-![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
-![GitHub repos](https://img.shields.io/github/qasim/Iamdeveloper1?style=for-the-badge)
 
 
 
