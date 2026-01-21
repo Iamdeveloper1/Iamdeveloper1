@@ -31,7 +31,14 @@ I love building
 
 <hr style="border: 0; height: 4px; background: linear-gradient(to right, #FF5733, #FF8D1A, #FFC300);">
 
+<p>
+  <img src="https://img.shields.io/badge/Github%20-stats-brightgreen?style=for-the-badge&logo=github" />
+</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=00000000)
+
 
 ![Stars](https://img.shields.io/github/stars/Iamdeveloper1/qasim-?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim-?style=for-the-badge)
