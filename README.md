@@ -43,7 +43,9 @@ I love building
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Iamdeveloper1&style=for-the-badge)
@@ -53,5 +55,7 @@ I love building
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&dates=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com/api?user=Iamdeveloper1&theme=dark)
 
 
