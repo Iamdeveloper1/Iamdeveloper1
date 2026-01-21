@@ -33,25 +33,18 @@ I love building
   <img src="https://img.shields.io/badge/githab%20-stats-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
-![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Iamdeveloper1&style=for-the-badge)
-
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://activity-graph.herokuapp.com/graph?username=Iamdeveloper1&theme=react-dark&area=true" />
 </p>
 
 
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&theme=nuefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Iamdeveloper1&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Iamdeveloper1&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
