@@ -37,9 +37,6 @@ I love building
 ![](https://nirzak-streak-stats.vercel.app/?user=Iamdeveloper1&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Iamdeveloper1&limit=5&theme=buefy&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Stars](https://img.shields.io/github/stars/Iamdeveloper1/qasim?style=for-the-badge)
@@ -47,7 +44,7 @@ I love building
 ![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim?style=for-the-badge)
 
 ![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
-![GitHub repos](https://img.shields.io/github/repos/Iamdeveloper1?style=for-the-badge)
+![GitHub repos](https://img.shields.io/github/qasim/Iamdeveloper1?style=for-the-badge)
 
 
 
