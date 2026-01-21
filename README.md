@@ -34,9 +34,17 @@ I love building
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
-![Repos](https://img.shields.io/github/repo-count/Iamdeveloper1?style=for-the-badge)
-
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Iamdeveloper1&style=for-the-badge)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Iamdeveloper1&theme=react-dark&area=true" />
+</p>
+
 
 
 
