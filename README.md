@@ -49,7 +49,7 @@ I love building
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![License](https://img.shields.io/github/license/username/repo)
+![License](https://img.shields.io/github/license/Iamdeveloper1/qasim-1)
 
 
 
