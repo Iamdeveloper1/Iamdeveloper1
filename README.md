@@ -42,11 +42,8 @@ I love building
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JS](https://img.shields.io/badge/JavaScript-ES6-yellow)
-
-![Stars](https://img.shields.io/github/stars/username/repo)
-
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge)
 
 
