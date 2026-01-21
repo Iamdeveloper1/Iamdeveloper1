@@ -61,6 +61,13 @@ I love building
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-1/main.yml?style=for-the-badge&label=Status)
 
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-1/main.yml?style=for-the-badge&label=Status" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-1/main.yml?style=for-the-badge&label=Build" />
+  <img src="https://img.shields.io/github/v/release/Iamdeveloper1/qasim-1?style=for-the-badge" />
+</p>
+
+
 
 
 
