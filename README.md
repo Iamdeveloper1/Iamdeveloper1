@@ -53,6 +53,8 @@ I love building
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 
+![Build](https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-/main.yml?style=for-the-badge)
+
 
 
 
