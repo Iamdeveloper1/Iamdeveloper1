@@ -55,6 +55,9 @@ I love building
 
 ![Build](https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-/main.yml?style=for-the-badge)
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-/main.yml?style=for-the-badge&label=Status)
+
+
 
 
 
