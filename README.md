@@ -60,6 +60,8 @@ I love building
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
 
+![Snake](https://raw.githubusercontent.com/Iamdeveloper1/Iamdeveloper1/output/github-contribution-grid-snake.svg)
+
 
 
 
