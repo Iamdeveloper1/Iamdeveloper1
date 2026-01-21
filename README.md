@@ -31,8 +31,7 @@ I love building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Iamdeveloper1&theme=react-dark&area=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
