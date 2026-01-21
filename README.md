@@ -36,11 +36,7 @@ I love building
 ![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
 ![Repos](https://img.shields.io/github/repo-count/Iamdeveloper1?style=for-the-badge)
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-count/Iamdeveloper1?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Iamdeveloper1?style=for-the-badge" />
-</p>
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Iamdeveloper1&style=for-the-badge)
 
 
 
