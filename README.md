@@ -59,6 +59,8 @@ I love building
   <img src="https://img.shields.io/github/stars/Iamdeveloper1/qasim-?style=for-the-badge" />
 </p>
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-1/main.yml?style=for-the-badge&label=Status)
+
 
 
 
