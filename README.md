@@ -49,8 +49,6 @@ I love building
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![License](https://img.shields.io/github/license/Iamdeveloper1/qasim-1)
-
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
