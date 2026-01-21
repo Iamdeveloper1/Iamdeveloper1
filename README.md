@@ -30,7 +30,7 @@ I love building
 <hr style="border: 0; height: 4px; background: linear-gradient(to right, #FF5733, #FF8D1A, #FFC300);">
 
 <p>
-  <img src="https://img.shields.io/badge/githab%20-stats-FF5733?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/githab%20-stats-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&theme=nuefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
