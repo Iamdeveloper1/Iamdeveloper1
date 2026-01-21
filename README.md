@@ -43,19 +43,21 @@ I love building
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
-
 
 ![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Iamdeveloper1&style=for-the-badge)
 
+![Last commit](https://img.shields.io/github/last-commit/Iamdeveloper1/qasim-?style=for-the-badge)
+![Release version](https://img.shields.io/github/v/release/Iamdeveloper1/qasim-?style=for-the-badge)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<p>
+  <img src="https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-1/main.yml?style=for-the-badge&label=Status" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Iamdeveloper1/qasim-1/main.yml?style=for-the-badge&label=Build" />
+  <img src="https://img.shields.io/github/v/release/Iamdeveloper1/qasim-1?style=for-the-badge" />
+</p>
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&dates=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com/api?user=Iamdeveloper1&theme=dark)
 
 
