@@ -10,7 +10,7 @@ I’m a passionate <em>Full-Stack Web Developer</em> and <em>Software Engineer</
 I love building 
 </p>
 
-https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
+<hr style="border: 0; height: 4px; background: linear-gradient(to right, #FF5733, #FF8D1A, #FFC300);">
 
 <p>
   <img src="https://img.shields.io/badge/Skills%20-syedqasim-brightgreen?style=for-the-badge&logo=github" />
