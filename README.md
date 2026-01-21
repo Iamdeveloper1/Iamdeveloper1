@@ -50,23 +50,12 @@ I love building
 ![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim-?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim-?style=for-the-badge)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Iamdeveloper1&theme=react-dark&area=true)
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Iamdeveloper1&theme=react-dark&area=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iammdeveloper1&layout=compact&theme=dark)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
 
-![Snake](https://raw.githubusercontent.com/Iamdeveloper1/Iamdeveloper1/output/github-contribution-grid-snake.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
 
 
 
