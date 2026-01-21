@@ -46,4 +46,8 @@ I love building
 ![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim?style=for-the-badge)
 
+![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
+![GitHub repos](https://img.shields.io/github/repos/Iamdeveloper1?style=for-the-badge)
+
+
 
