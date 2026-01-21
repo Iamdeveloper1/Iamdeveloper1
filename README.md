@@ -64,6 +64,8 @@ I love building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
+
 
 
 
