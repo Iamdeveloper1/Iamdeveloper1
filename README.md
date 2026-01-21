@@ -51,6 +51,5 @@ I love building
 ![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim-?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim-?style=for-the-badge)
 
-
-
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Iamdeveloper1&theme=react-dark&area=true)
 
