@@ -58,6 +58,9 @@ I love building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
+
+
 
 
 
