@@ -41,6 +41,9 @@ I love building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=69d982&text_color=FFFFFF&bg_color=000000&ring_color=00FF00&border_color=FFFFFF)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&title_color=FF69B4&icon_color=00FF00&text_color=FFFFFF&bg_color=00000000&ring_color=00FF00&border_color=FFFFFF&hide_border=false)
+
+
 
 
 ![Stars](https://img.shields.io/github/stars/Iamdeveloper1/qasim-?style=for-the-badge)
