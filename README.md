@@ -31,6 +31,10 @@ I love building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark)
 
+![Stars](https://img.shields.io/github/stars/Iamdeveloper1/qasim-?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim-?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim-?style=for-the-badge)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
@@ -38,20 +42,10 @@ I love building
 ![GitHub followers](https://img.shields.io/github/followers/Iamdeveloper1?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Iamdeveloper1&style=for-the-badge)
 
-![Stars](https://img.shields.io/github/stars/Iamdeveloper1/qasim-?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim-?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim-?style=for-the-badge)
-
 ![Last commit](https://img.shields.io/github/last-commit/Iamdeveloper1/qasim-?style=for-the-badge)
 ![Release version](https://img.shields.io/github/v/release/Iamdeveloper1/qasim-?style=for-the-badge)
 
-
 ![Custom](https://img.shields.io/badge/Focus-MERN_Stack-red)
-
-
-![Course](https://img.shields.io/badge/Udemy-Full_Stack-purple)
-![Student](https://img.shields.io/badge/Role-Student-orange)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
