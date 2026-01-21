@@ -8,6 +8,7 @@
 Hi! I’m <strong>Qasim Shah</strong><br>
 I’m a passionate <em>Full-Stack Web Developer</em> and <em>Software Engineer</em><br>
 I love building 
+![Custom](https://img.shields.io/badge/Focus-MERN_Stack-red)
 </p>
 
 <hr style="border: 0; height: 4px; background: linear-gradient(to right, #FF5733, #FF8D1A, #FFC300);">
@@ -44,8 +45,6 @@ I love building
 
 ![Last commit](https://img.shields.io/github/last-commit/Iamdeveloper1/qasim-?style=for-the-badge)
 ![Release version](https://img.shields.io/github/v/release/Iamdeveloper1/qasim-?style=for-the-badge)
-
-![Custom](https://img.shields.io/badge/Focus-MERN_Stack-red)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
