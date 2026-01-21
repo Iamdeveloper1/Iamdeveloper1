@@ -49,6 +49,10 @@ I love building
 ![Custom](https://img.shields.io/badge/Focus-MERN_Stack-red)
 
 
+![Course](https://img.shields.io/badge/Udemy-Full_Stack-purple)
+![Student](https://img.shields.io/badge/Role-Student-orange)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
