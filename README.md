@@ -8,8 +8,8 @@
 Hi! I’m <strong>Qasim Shah</strong><br>
 I’m a passionate <em>Full-Stack Web Developer</em> and <em>Software Engineer</em><br>
 I love building 
-![Custom](https://img.shields.io/badge/Focus-MERN_Stack-red)
 </p>
+![Custom](https://img.shields.io/badge/Focus-MERN_Stack-red)
 
 <hr style="border: 0; height: 4px; background: linear-gradient(to right, #FF5733, #FF8D1A, #FFC300);">
 
