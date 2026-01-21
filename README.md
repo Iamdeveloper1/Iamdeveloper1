@@ -54,4 +54,7 @@ I love building
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Iamdeveloper1&theme=react-dark&area=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iammdeveloper1&layout=compact&theme=dark)
+
+
 
