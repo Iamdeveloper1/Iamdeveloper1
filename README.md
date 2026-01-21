@@ -50,8 +50,6 @@ I love building
 ![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim-?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim-?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
