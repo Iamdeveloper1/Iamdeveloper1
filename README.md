@@ -46,6 +46,7 @@ I love building
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-![Discord](https://img.shields.io/discord/https%3A%2F%2Fdiscord.com%2Faccessibility)
+![GitHub code search count](https://img.shields.io/github/search)
+
 
 
