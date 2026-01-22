@@ -41,7 +41,7 @@ I love building
 ![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim-?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim-?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
 
