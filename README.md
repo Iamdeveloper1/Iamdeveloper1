@@ -37,10 +37,6 @@ I love building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&title_color=44cc11&icon_color=69d982&text_color=FFFFFF&bg_color=151515&ring_color=fb8c00&border_color=555555)
 
-![Stars](https://img.shields.io/github/stars/Iamdeveloper1/qasim-?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Iamdeveloper1/qasim-?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Iamdeveloper1/qasim-?style=for-the-badge)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark)
 
 
