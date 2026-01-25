@@ -37,7 +37,7 @@ I love building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamdeveloper1&show_icons=true&theme=dark&title_color=44cc11&icon_color=69d982&text_color=FFFFFF&bg_color=151515&ring_color=fb8c00&border_color=555555)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark&langs_count=8&count_private=true&cache_seconds=1800&v=3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamdeveloper1&layout=compact&theme=dark&langs_count=8&count_private=true&cache_seconds=1800&v=4)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iamdeveloper1&theme=dark)
 
